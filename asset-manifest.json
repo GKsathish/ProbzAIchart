@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ProbzAIchart/static/css/main.9727b003.css",
-    "main.js": "/ProbzAIchart/static/js/main.f517e3da.js",
+    "main.js": "/ProbzAIchart/static/js/main.62db4513.js",
     "static/js/453.dedc7fed.chunk.js": "/ProbzAIchart/static/js/453.dedc7fed.chunk.js",
     "index.html": "/ProbzAIchart/index.html",
     "main.9727b003.css.map": "/ProbzAIchart/static/css/main.9727b003.css.map",
-    "main.f517e3da.js.map": "/ProbzAIchart/static/js/main.f517e3da.js.map",
+    "main.62db4513.js.map": "/ProbzAIchart/static/js/main.62db4513.js.map",
     "453.dedc7fed.chunk.js.map": "/ProbzAIchart/static/js/453.dedc7fed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9727b003.css",
-    "static/js/main.f517e3da.js"
+    "static/js/main.62db4513.js"
   ]
 }
