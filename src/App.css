@@ -1,0 +1,55 @@
+/* App.css */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  text-align: center;
+
+}
+
+.App-main {
+  flex: 1;
+  padding: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  overflow-y: auto;
+display: flex;
+justify-content: center;
+
+  
+}
+
+.App-footer {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: 1000;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .App-main {
+    margin-top: 40px; /* Reduce top margin for smaller screens */
+    margin-bottom: 40px; /* Reduce bottom margin for smaller screens */
+  }
+  
+  .App-header,
+  .App-footer {
+    padding: 8px 16px; /* Adjust padding for smaller screens */
+    text-align: center;
+  }
+}
